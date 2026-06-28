@@ -1,0 +1,6 @@
+{
+  "name": "AMORYY JB & RENTAL",
+  "description": "Marketplace premium untuk jual beli dan sewa akun Free Fire dan Mobile Legends, dilengkapi dengan sistem real-time sync, katalog produk, flash sale, sewa akun, testimoni, dan dashboard admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
